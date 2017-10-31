@@ -4,7 +4,7 @@ import SMETANA
 
 class Test_examples(unittest.TestCase):
 
-    def test_SMETANA_HelloWorld(self):
+    def test_SMATINY_HelloWorld(self):
 
         code = """1. Swap 1 with 71.
 10. Output this block's position.
